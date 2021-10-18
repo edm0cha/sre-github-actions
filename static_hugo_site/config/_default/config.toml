@@ -1,8 +1,8 @@
 # This the default config from which all other configurations inherit
 ## For a more detailed example of the themes capabilities look at "development/config.toml"
 languageCode = "en-us"
-title = "Alpha by HTML5 UP"
-baseURL = "https://example.com"
+title = "Alpha by HTML5 UP Edwin Moedano"
+baseURL = "https://edm0cha.github.io/sre-github-actions/"
 theme = "hugo-html5up-alpha"
 disqusShortname = ""
 

@@ -2,8 +2,8 @@
 ####### Changes made here will not effect demo site
 
 languageCode = "en-us"
-title = "Alpha by HTML5 UP"
-baseURL = "https://example.com"
+title = "Alpha by HTML5 UP Edwin Moedano"
+baseURL = "https://edm0cha.github.io/sre-github-actions/"
 theme = "hugo-html5up-alpha"
 disqusShortname = ""
 canonifyurls = true
